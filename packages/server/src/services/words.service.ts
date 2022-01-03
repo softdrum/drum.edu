@@ -1,4 +1,4 @@
-import { wordsModel } from "../models/words.model.js";
+import { wordsModel } from "../models/words.model";
 
 class WordsService {
   async getWords(lang) {
