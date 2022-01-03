@@ -1,3 +1,0 @@
-describe("WordsService", () => {
-  it("works", () => {});
-});
