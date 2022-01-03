@@ -1,0 +1,3 @@
+describe("WordsService", () => {
+  it("works", () => {});
+});
