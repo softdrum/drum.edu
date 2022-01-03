@@ -1,5 +1,5 @@
 import { Router } from "express";
-import wordsRoutes from "./words.routes.js";
+import wordsRoutes from "./words.routes";
 
 const router = Router();
 

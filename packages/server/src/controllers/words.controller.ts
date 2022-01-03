@@ -1,4 +1,4 @@
-import { wordsService } from "../services/words.service.js";
+import { wordsService } from "../services/words.service";
 
 class WordsController {
   async getWords(req, res) {
